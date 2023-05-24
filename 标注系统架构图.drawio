@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:42:58.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-STivJH9eLj13TA_WTAy" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:45:33.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KFDOhQkqzSCZdgw7iOmz" version="21.3.3" type="github">
   <diagram id="FE3Fn8djeo3rkC9_4-Tv" name="第 1 页">
     <mxGraphModel dx="1434" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="HDZUWkLC-cUzbWP8mmi7-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="HDZUWkLC-cUzbWP8mmi7-7" vertex="1">
           <mxGeometry y="30" width="160" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="HDZUWkLC-cUzbWP8mmi7-9" value="dicom&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="HDZUWkLC-cUzbWP8mmi7-8" vertex="1">
+        <mxCell id="HDZUWkLC-cUzbWP8mmi7-9" value="dicom&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="HDZUWkLC-cUzbWP8mmi7-8" vertex="1">
           <mxGeometry width="54" height="37" as="geometry">
             <mxRectangle width="54" height="37" as="alternateBounds" />
           </mxGeometry>
@@ -405,7 +405,7 @@
         <mxCell id="wRcnl-o4CJ3A5S_fedt4-25" value="T2" style="text;html=1;strokeColor=black;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1735" y="370" width="50" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="wRcnl-o4CJ3A5S_fedt4-27" value="输入内容：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=blue;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wRcnl-o4CJ3A5S_fedt4-27" value="输入内容：&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=blue;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1930" y="-90" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wRcnl-o4CJ3A5S_fedt4-38" value="模型名：&lt;br&gt;&lt;br&gt;输入模态名：&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=blue;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -1328,8 +1328,11 @@
         <mxCell id="46EeAHdD9Hrde02t6f0Y-2" value="1，每个对象需要新创建一个图层。&lt;br&gt;2，对象隐藏可以实现对应图层标注得隐藏，并且不参与可见图层得修改和标注" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2303.13" y="1310" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YB_-f9PbkbtEiz2jMeB8-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YB_-f9PbkbtEiz2jMeB8-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="-600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GJ8bo4unYv1JggeUGhFb-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
